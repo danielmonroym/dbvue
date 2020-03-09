@@ -1,11 +1,9 @@
-[
- 
 {
- "userId": 1,
+ "todos":[
+{ "userId": 1,
  "id":1,
  "title": "TITULO lmao",
  "completed": false
- 
 },
 {
  "userId": 1,
@@ -26,8 +24,5 @@
  "id":4,
  "title": "TITULO lmaooooooooo",
  "completed": true
- 
 }
-
-
 ]
